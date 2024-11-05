@@ -1,5 +1,3 @@
-# Seen
+# THIS IS NOT THE MARKDOWN DOCUMENT THAT WILL APPEAR ON THE PROFILE
 
-## Purpose
-
-Seen is a Senior Software Engineering Project which will be developed over the next several months. Its aim is to build and deploy an app to the Android market which can detect sign language from a video & then convert it into text using AI.
+This project has a ReadMe file which can be found under the profile folder within this project. That Markdown Document will appear at the front of the Organization's Page, and can be used as a bit of a landing message to further explain what is going on.
